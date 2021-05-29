@@ -107,4 +107,4 @@ async def role(ctx: commands.Context, arg: str = ""):
     await ctx.message.delete()
     await context.send(embed=embed(message))
 
-bot.run("ODQ2NzA4ODE3Mjc3MjIyOTIz.YKzdCQ.w89JbO-ZbxbYsJFyypcdlsg6RUo")
+bot.run("")
